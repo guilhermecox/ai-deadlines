@@ -1,13 +1,25 @@
 ---
-- name: Machine Learning
-  sub: ML
-- name: Computer Vision
-  sub: CV
-- name: Natural Language Processing
-  sub: NLP
-- name: Robotics
-  sub: RO
-- name: Speech/SigProc
-  sub: SP
-- name: Data Mining
-  sub: DM
+- name: Computer Architecture
+  sub: ARCH
+- name: Computer Networks
+  sub: COMM
+- name: Computer Security
+  sub: SEC
+- name: Databases
+  sub: DB
+- name: Design Automation
+  sub: DA
+- name: Embedded & Real-Time Systems
+  sub: BED
+- name: High-Performance Computing
+  sub: HPC
+- name: Mobile Computing
+  sub: MOB
+- name: Measurement & Perf. Analysis
+  sub: METRICS
+- name: Operating Systems
+  sub: OS
+- name: Programming Languages
+  sub: PL
+- name: Software Engineering
+  sub: SE
