@@ -1,7 +1,7 @@
 title: Systems Conference Deadlines # (Maintained by @guilhermecox)
 # email: cox@computer.org
-description: Countdowns to top Systems conference deadlines
-author: Abhishek Das
+description: Countdowns to top Systems conference deadlines.
+author: Guilherme Cox
 
 domain: "deadline.systems"
 baseurl: ""
