@@ -117,3 +117,34 @@
   place: Amsterdam, NL
   sub: DB
 
+- title: VLDB
+  year: 2019
+  id: vldb2019
+  link: http://www.vldb.org/2019/
+  deadline: '2019-03-01 17:00:00'
+  timezone: Etc/GMT-7
+  date: August 26-30, 2019
+  place: Los Angeles, CA, USA
+  sub: DB
+  note: '<b>NOTE</b>: VLDB has a rolling deadline system, with multiple
+  deadlines. Check their website for more information.'
+
+- title: ICDE
+  year: 2019
+  id: icde2019
+  link: http://conferences.cis.umac.mo/icde2019/
+  deadline: '2018-10-08 23:59:59'
+  timezone: Etc/GMT-7
+  date: April 8-12, 2019
+  place: Macau SAR, China
+  sub: DB
+
+- title: PODS
+  year: 2019
+  id: pods2019
+  link: http://sigmod2019.org/
+  deadline: '2018-12-14 23:59:00'
+  timezone: Etc/GMT-12
+  date: June 30 - July 5, 2019
+  place: Amsterdam, NL
+  sub: DB
