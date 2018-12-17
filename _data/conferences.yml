@@ -148,3 +148,23 @@
   date: June 30 - July 5, 2019
   place: Amsterdam, NL
   sub: DB
+
+- title: DAC
+  year: 2019
+  id: dac2019
+  link: https://dac.com/submission-categories/research-manuscript
+  deadline: '2018-11-20 17:00:00'
+  timezone: Etc/GMT-7
+  date: June 2-6, 2019
+  place: Las Vegas, NV, USA
+  sub: DA
+
+- title: ICCAD
+  year: 2019
+  id: iccad2019
+  link: http://www.iccad-conf.com/
+  deadline: '2019-01-31 23:59:59'
+  timezone: Etc/GMT-12
+  date: July 2-4, 2019
+  place: Grenoble, France
+  sub: DA
