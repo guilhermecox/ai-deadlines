@@ -61,3 +61,59 @@
   date: February 26-28, 2019
   place: Boston, MA, USA
   sub: COMM
+
+- title: IEEE S&P
+  year: 2019
+  id: ieeesp2019
+  link: https://www.ieee-security.org/TC/SP2019/
+  deadline: '2018-09-01 15:00:00'
+  timezone: Etc/GMT-7
+  date: May 20-22, 2019
+  place: San Francisco, CA, USA
+  sub: SEC
+  note: '<b>NOTE</b>: IEEE S&P has a rolling deadline system, with multiple
+  deadlines. Check their website for more information.'
+
+- title: CCS
+  year: 2019
+  id: ccs2019
+  link: https://www.sigsac.org/ccs/CCS2019
+  deadline: '2019-05-15 23:59:59'
+  timezone: Etc/GMT-12
+  date: November 11-15, 2019
+  place: London, UK
+  sub: SEC
+  note: '<b>NOTE</b>: CCS 2019 has three review cycles. The first submission
+  deadline is on Feb 5, the second is on May 15. The third submission cycle, on
+  Sep 1, is only open for resubmission from the first two cycles.'
+
+- title: USENIX-Security
+  year: 2019
+  id: usenix-sec2019
+  link: https://www.usenix.org/conference/usenixsecurity19
+  deadline: '2019-02-15 17:00:00'
+  timezone: Etc/GMT-8
+  date: August 14-16, 2019
+  place: Santa Clara, CA, USA
+  sub: SEC
+
+- title: NDSS
+  year: 2019
+  id: ndss2019
+  link: https://www.ndss-symposium.org/ndss2019/
+  deadline: '2018-08-07 23:59:59'
+  timezone: Etc/GMT-4
+  date: February 24-27, 2019
+  place: San Diego, CA, USA
+  sub: SEC
+
+- title: SIGMOD
+  year: 2019
+  id: sigmod2019
+  link: http://sigmod2019.org/
+  deadline: '2018-07-12 17:00:00'
+  timezone: Etc/GMT-7
+  date: June 30 - July 5, 2019
+  place: Amsterdam, NL
+  sub: DB
+
