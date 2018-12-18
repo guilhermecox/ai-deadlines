@@ -16,7 +16,7 @@
   id: asplos2019
   link: https://asplos-conference.org/
   deadline: '2018-07-31 23:59:59'
-  timezone: Etc/GMT-12
+  timezone: Etc/GMT+12
   date: April 13-17, 2019
   place: Providence, RI, USA
   sub: ARCH
@@ -37,7 +37,7 @@
   id: micro2020
   link: https://www.microarch.org/micro52
   deadline: 'TBA'
-  timezone: Etc/GMT-12
+  timezone: Etc/GMT+12
   date: October 19-23, 2020
   place: Columbus, OH, USA
   sub: ARCH
@@ -57,7 +57,7 @@
   id: nsdi2019
   link: https://www.usenix.org/conference/nsdi19
   deadline: '2018-05-24 18:00:00'
-  timezone: Etc/GMT-8
+  timezone: America/Los_Angeles
   date: February 26-28, 2019
   place: Boston, MA, USA
   sub: COMM
@@ -67,7 +67,7 @@
   id: ieeesp2019
   link: https://www.ieee-security.org/TC/SP2019/
   deadline: '2018-09-01 15:00:00'
-  timezone: Etc/GMT-7
+  timezone: America/Los_Angeles
   date: May 20-22, 2019
   place: San Francisco, CA, USA
   sub: SEC
@@ -79,7 +79,7 @@
   id: ccs2019
   link: https://www.sigsac.org/ccs/CCS2019
   deadline: '2019-05-15 23:59:59'
-  timezone: Etc/GMT-12
+  timezone: Etc/GMT+12
   date: November 11-15, 2019
   place: London, UK
   sub: SEC
@@ -92,7 +92,7 @@
   id: usenix-sec2019
   link: https://www.usenix.org/conference/usenixsecurity19
   deadline: '2019-02-15 17:00:00'
-  timezone: Etc/GMT-8
+  timezone: America/Los_Angeles
   date: August 14-16, 2019
   place: Santa Clara, CA, USA
   sub: SEC
@@ -102,7 +102,7 @@
   id: ndss2019
   link: https://www.ndss-symposium.org/ndss2019/
   deadline: '2018-08-07 23:59:59'
-  timezone: Etc/GMT-4
+  timezone: America/New_York
   date: February 24-27, 2019
   place: San Diego, CA, USA
   sub: SEC
@@ -112,7 +112,7 @@
   id: sigmod2019
   link: http://sigmod2019.org/
   deadline: '2018-07-12 17:00:00'
-  timezone: Etc/GMT-7
+  timezone: America/Los_Angeles
   date: June 30 - July 5, 2019
   place: Amsterdam, NL
   sub: DB
@@ -122,7 +122,7 @@
   id: vldb2019
   link: http://www.vldb.org/2019/
   deadline: '2019-03-01 17:00:00'
-  timezone: Etc/GMT-7
+  timezone: America/Los_Angeles
   date: August 26-30, 2019
   place: Los Angeles, CA, USA
   sub: DB
@@ -134,7 +134,7 @@
   id: icde2019
   link: http://conferences.cis.umac.mo/icde2019/
   deadline: '2018-10-08 23:59:59'
-  timezone: Etc/GMT-7
+  timezone: America/Los_Angeles
   date: April 8-12, 2019
   place: Macau SAR, China
   sub: DB
@@ -144,7 +144,7 @@
   id: pods2019
   link: http://sigmod2019.org/
   deadline: '2018-12-14 23:59:00'
-  timezone: Etc/GMT-12
+  timezone: Etc/GMT+12
   date: June 30 - July 5, 2019
   place: Amsterdam, NL
   sub: DB
@@ -154,7 +154,7 @@
   id: dac2019
   link: https://dac.com/submission-categories/research-manuscript
   deadline: '2018-11-20 17:00:00'
-  timezone: Etc/GMT-7
+  timezone: America/Los_Angeles
   date: June 2-6, 2019
   place: Las Vegas, NV, USA
   sub: DA
@@ -164,7 +164,7 @@
   id: iccad2019
   link: http://www.iccad-conf.com/
   deadline: '2019-01-31 23:59:59'
-  timezone: Etc/GMT-12
+  timezone: Etc/GMT+12
   date: July 2-4, 2019
   place: Grenoble, France
   sub: DA
@@ -174,7 +174,7 @@
   id: emsoft2019
   link: https://www.esweek.org/emsoft/about
   deadline: '2019-04-05 23:59:59'
-  timezone: Etc/GMT-12
+  timezone: Etc/GMT+12
   date: October 13-18, 2019
   place: New York City, NY, USA
   sub: BED
@@ -184,7 +184,7 @@
   id: rtas2019
   link: http://2019.rtas.org/
   deadline: '2018-10-17 23:59:59'
-  timezone: Etc/GMT-12
+  timezone: Etc/GMT+12
   date: April 16-18, 2019
   place: Montreal, Canada
   sub: BED
@@ -194,7 +194,7 @@
   id: rtss2019
   link: http://2019.rtss.org/
   deadline: '2019-05-30 23:59:59'
-  timezone: Etc/GMT-12
+  timezone: Etc/GMT+12
   date: December 3-6, 2019
   place: Hong Kong, China
   sub: BED
@@ -204,7 +204,7 @@
   id: hpdc2019
   link: http://hpdc.org/2019/
   deadline: '2019-01-16 23:59:59'
-  timezone: Etc/GMT-4
+  timezone: America/New_York
   date: June 22-29, 2019
   place: Phoenix, AZ, USA
   sub: HPC
@@ -214,7 +214,7 @@
   id: sc2019
   link: https://sc19.supercomputing.org/
   deadline: '2019-04-02 23:59:59'
-  timezone: Etc/GMT-12
+  timezone: Etc/GMT+12
   date: November 17-22, 2019
   place: Denver, CO, USA
   sub: HPC
@@ -224,7 +224,7 @@
   id: ics2019
   link: https://ics19.eecis.udel.edu/
   deadline: '2019-01-25 23:59:59'
-  timezone: Etc/GMT-12
+  timezone: Etc/GMT+12
   date: June 26-28, 2019
   place: Phoenix, AZ, USA
   sub: HPC
