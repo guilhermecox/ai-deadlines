@@ -16,7 +16,7 @@
   id: asplos2019
   link: https://asplos-conference.org/
   deadline: '2018-07-31 23:59:59'
-  timezone: Etc/GMT+12
+  timezone: Etc/GMT-12
   date: April 13-17, 2019
   place: Providence, RI, USA
   sub: ARCH
@@ -37,7 +37,7 @@
   id: micro2020
   link: https://www.microarch.org/micro52
   deadline: 'TBA'
-  timezone: Etc/GMT+12
+  timezone: Etc/GMT-12
   date: October 19-23, 2020
   place: Columbus, OH, USA
   sub: ARCH
@@ -168,3 +168,63 @@
   date: July 2-4, 2019
   place: Grenoble, France
   sub: DA
+
+- title: EMSOFT
+  year: 2019
+  id: emsoft2019
+  link: https://www.esweek.org/emsoft/about
+  deadline: '2019-04-05 23:59:59'
+  timezone: Etc/GMT-12
+  date: October 13-18, 2019
+  place: New York City, NY, USA
+  sub: BED
+
+- title: RTAS
+  year: 2019
+  id: rtas2019
+  link: http://2019.rtas.org/
+  deadline: '2018-10-17 23:59:59'
+  timezone: Etc/GMT-12
+  date: April 16-18, 2019
+  place: Montreal, Canada
+  sub: BED
+
+- title: RTSS
+  year: 2019
+  id: rtss2019
+  link: http://2019.rtss.org/
+  deadline: '2019-05-30 23:59:59'
+  timezone: Etc/GMT-12
+  date: December 3-6, 2019
+  place: Hong Kong, China
+  sub: BED
+
+- title: HPDC
+  year: 2019
+  id: hpdc2019
+  link: http://hpdc.org/2019/
+  deadline: '2019-01-16 23:59:59'
+  timezone: Etc/GMT-4
+  date: June 22-29, 2019
+  place: Phoenix, AZ, USA
+  sub: HPC
+
+- title: SC
+  year: 2019
+  id: sc2019
+  link: https://sc19.supercomputing.org/
+  deadline: '2019-04-02 23:59:59'
+  timezone: Etc/GMT-12
+  date: November 17-22, 2019
+  place: Denver, CO, USA
+  sub: HPC
+
+- title: ICS
+  year: 2019
+  id: ics2019
+  link: https://ics19.eecis.udel.edu/
+  deadline: '2019-01-25 23:59:59'
+  timezone: Etc/GMT-12
+  date: June 26-28, 2019
+  place: Phoenix, AZ, USA
+  sub: HPC
