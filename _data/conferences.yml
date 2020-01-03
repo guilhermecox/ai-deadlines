@@ -1,45 +1,64 @@
 
 ---
 
-- title: HPCA
-  year: 2019
-  id: hpca2019
-  link: http://hpca2019.seas.gwu.edu/
-  deadline: '2018-07-27 23:59:59'
+- title: USENIX ATC
+  year: 2020
+  id: atc2020
+  link: https://www.usenix.org/conference/atc20
+  deadline: '2020-01-15 23:59:00'
   timezone: America/New_York
-  date: February 16-20, 2019
-  place: Washington DC, USA
-  sub: ARCH
+  date: July 15-17, 2020
+  place: Boston, MA, USA
+  sub: OS
 
-- title: ASPLOS
-  year: 2019
-  id: asplos2019
-  link: https://asplos-conference.org/
-  deadline: '2018-07-31 23:59:59'
-  timezone: Etc/GMT+12
-  date: April 13-17, 2019
-  place: Providence, RI, USA
-  sub: ARCH
-
-- title: ISCA
-  year: 2019
-  id: isca2019
-  link: https://iscaconf.org/isca2019/
-  deadline: '2018-12-03 23:59:59'
+- title: OSDI
+  year: 2020
+  id: osdi2020
+  link: https://www.usenix.org/conference/osdi20
+  deadline: '2020-05-12 15:00:00'
   timezone: America/Los_Angeles
-  date: June 22-26, 2019
-  place: Phoenix, AZ, USA
-  sub: ARCH
-  note: '<b>NOTE</b>: ISCA 2019 is part of the <a href="https://fcrc.acm.org/">ACM Federated Computing Research Conference</a>.'
+  date: November 4-6, 2020
+  place: Banff, Alberta, Canada
+  sub: OS
 
 - title: MICRO
   year: 2020
   id: micro2020
-  link: https://www.microarch.org/micro52
+  link: https://www.microarch.org/micro53
   deadline: 'TBA'
   timezone: Etc/GMT+12
-  date: October 19-23, 2020
-  place: Columbus, OH, USA
+  date: October, 2020
+  place: Athens, Greece
+  sub: ARCH
+
+- title: HPCA
+  year: 2020
+  id: hpca2020
+  link: https://www.hpca-conf.org/2020/
+  deadline: '2018-07-27 23:59:59'
+  timezone: America/New_York
+  date: February 22-26, 2019
+  place: San Diego, CA, USA
+  sub: ARCH
+
+- title: ASPLOS
+  year: 2020
+  id: asplos2020
+  link: https://asplos-conference.org/
+  deadline: '2019-08-16 16:59:59'
+  timezone: America/Los_Angeles
+  date: March 16-20, 2020
+  place: Lausanne, Switzerland
+  sub: ARCH
+
+- title: ISCA
+  year: 2020
+  id: isca2020
+  link: https://iscaconf.org/isca2020/
+  deadline: '2018-12-03 23:59:59'
+  timezone: America/Los_Angeles
+  date: May 30 - June 3, 2019
+  place: Valencia, Spain 
   sub: ARCH
 
 - title: SIGCOMM
@@ -228,3 +247,23 @@
   date: June 26-28, 2019
   place: Phoenix, AZ, USA
   sub: HPC
+
+- title: EuroSys
+  year: 2020
+  id: eurosys2020
+  link: https://www.eurosys2020.org/
+  deadline: '2019-11-04 15:00:00'
+  timezone: America/Los_Angeles
+  date: April 27-30, 2020
+  place: Heraklion, Crete, Grece
+  sub: OS
+
+- title: FAST
+  year: 2020
+  id: fast2020
+  link: https://www.usenix.org/conference/fast20 
+  deadline: '2019-09-26 15:00:00'
+  timezone: America/Los_Angeles
+  date: February 24-27, 2020
+  place: Santa Clara, CA, USA
+  sub: OS
