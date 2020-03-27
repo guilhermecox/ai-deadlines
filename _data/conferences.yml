@@ -1,6 +1,27 @@
 
 ---
 
+- title: NSDI (Spring)
+  year: 2021
+  id: nsdi2021spring
+  link: https://www.usenix.org/conference/nsdi21/
+  deadline: '2020-04-17 23:59:00'
+  timezone: America/New_York
+  data: April 12-14, 2021
+  place: Boston, MA, USA
+  sub: COMM
+
+- title: NSDI (Fall)
+  year: 2021
+  id: nsdi2021fall
+  link: https://www.usenix.org/conference/nsdi21/
+  deadline: '2020-09-17 23:59:00'
+  timezone: America/New_York
+  data: April 12-14, 2021
+  place: Boston, MA, USA
+  sub: COMM
+
+
 - title: USENIX ATC
   year: 2020
   id: atc2020
